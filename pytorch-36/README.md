@@ -1,0 +1,1 @@
+See this companion article [How to setup PyTorch Jupyter Notebook on Intel Nervana AI Cluster (Colfax) For Deep Learning](http://mathalope.co.uk/2017/09/25/how-to-setup-pytorch-jupyter-notebook-on-intel-nervana-ai-cluster-colfax-for-deep-learning/)
