@@ -1,0 +1,1 @@
+This repository contains the conda environment files to get you started with Intel Distribution Python and Deep Learning Frameworks for Intel Architecture. Targeted for Intel Nervana AI Cluster user (Colfax).
