@@ -1,0 +1,9 @@
+name: pytorch-36
+channels:
+  - intel
+  - soumith      # pytorch
+dependencies:
+  - python=3.6
+  - jupyter
+  - pytorch      # pytorch
+  - torchvision  # pytorch
