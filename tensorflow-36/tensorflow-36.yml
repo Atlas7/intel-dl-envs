@@ -1,0 +1,8 @@
+name: tensorflow-36
+channels:
+  - intel
+dependencies:
+  - python=3.6
+  - jupyter
+  - tensorflow
+
